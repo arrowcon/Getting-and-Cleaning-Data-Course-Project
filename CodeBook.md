@@ -10,6 +10,7 @@ File:  "File" Data Set
 [1] "subject.id": identification number for test subject; range = 1:30                                  
 [2] "activity": one of six activities getting tested; range = c(walking, walkingUpStairs, walkingDownStairs, standing, sitting, laying)                                    
 [3] "tBodyAcceleration.meanInXdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
+
 [4] "tBodyAcceleration.meanInYdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
 [5] "tBodyAcceleration.meanInZdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
 [6] "tGravityAcceleration.meanInXdirection": mean of time domain gravity acceleration in the X direction; range = [-1.1]
