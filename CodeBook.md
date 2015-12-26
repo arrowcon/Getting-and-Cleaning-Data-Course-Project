@@ -4,7 +4,8 @@ Date:  12/25/2015
 File:  "File" Data Set
 
 *First entry in bracktes is the column number.  2nd entry is variable heading inside the file data frame.  
-3rd entry (after the colon) is its expanded, more descriptive name, 4th entry is the range of values that the variable takes on.*
+3rd entry (after the colon) is its expanded, more descriptive name, 
+4th entry is the range of values that the variable takes on.*
 
 [1] "subject.id": identification number for test subject; range = 1:30                                  
 [2] "activity": one of six activities getting tested; range = c(walking, walkingUpStairs, walkingDownStairs, standing, sitting, laying)                                    
