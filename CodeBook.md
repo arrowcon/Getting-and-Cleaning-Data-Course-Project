@@ -12,18 +12,31 @@ File:  "File" Data Set
 [3] "tBodyAcceleration.meanInXdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
 
 [4] "tBodyAcceleration.meanInYdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
+
 [5] "tBodyAcceleration.meanInZdirection": mean of time domain body acceleration in the X direction; range = [-1.1]
+
 [6] "tGravityAcceleration.meanInXdirection": mean of time domain gravity acceleration in the X direction; range = [-1.1]
+
 [7] "tGravityAcceleration.meanInYdirection": mean of time domain gravity acceleration in the Y direction; range = [-1.1]
+
 [8] "tGravityAcceleration.meanInZdirection": mean of time domain gravity acceleration in the Z direction; range = [-1.1]
+
 [9] "tBodyAccelerationJerk.meanInXdirection" : mean of time domain body jerk acceleration in the X direction; range = [-1.1]
+
 [10] "tBodyAccelerationJerk.meanInYdirection" : mean of time domain body jerk acceleration in the Y direction; range = [-1.1]
+
 [11] "tBodyAccelerationJerk.meanInZdirection" : mean of time domain body jerk acceleration in the Z direction; range = [-1.1]
-[12] "tBodyGyro.meanInXdirection" : mean of time domain body gyration in the X direction; range = [-1,1]             
-[13] "tBodyGyro.meanInYdirection": mean of time domain body gyration in the Y direction; range = [-1,1]             
-[14] "tBodyGyro.meanInZdirection": mean of time domain body gyration in the Z direction; range = [-1,1]             
-[15] "tBodyGyroJerk.meanInXdirection" : mean of time domain body jerk gyration in the X direction; range = [-1,1]             
-[16] "tBodyGyroJerk.meanInYdirection" : mean of time domain body jerk gyration in the Y direction; range = [-1,1]     
+
+[12] "tBodyGyro.meanInXdirection" : mean of time domain body gyration in the X direction; range = [-1,1]
+
+[13] "tBodyGyro.meanInYdirection": mean of time domain body gyration in the Y direction; range = [-1,1]
+
+[14] "tBodyGyro.meanInZdirection": mean of time domain body gyration in the Z direction; range = [-1,1]
+
+[15] "tBodyGyroJerk.meanInXdirection" : mean of time domain body jerk gyration in the X direction; range = [-1,1]
+
+[16] "tBodyGyroJerk.meanInYdirection" : mean of time domain body jerk gyration in the Y direction; range = [-1,1]
+
 [17] "tBodyGyroJerk.meanInZdirection" : mean of time domain body jerk gyration in the Z direction; range = [-1,1]     
 [18] "tBodyAccelerationMag.mean.." : mean of time domain body acceleration magnitude; range = [0, 1.732051]            
 [19] "tGravityAccelerationMag.mean..": mean of time domain gravity acceleration magnitude; range = [0, 1.732051]            
@@ -33,6 +46,7 @@ File:  "File" Data Set
 [23] "fBodyAcceleration.meanInXdirection" : mean of frequency domain body acceleration in the X direction; range = [-1.1]
 [24] "fBodyAcceleration.meanInYdirection": mean of frequency domain body acceleration in the Y direction; range = [-1.1]
 [25] "fBodyAcceleration.meanInZdirection": mean of frequency domain body acceleration in the Z direction; range = [-1.1]
+
 [26] "fBodyAcceleration.meanFreqInXdirection": mean of Body Acceleration frequency in the x-direction; range = [-1.,1]       
 [27] "fBodyAcceleration.meanFreqInYdirection": mean of Body Acceleration frequency in the y-direction; range = [-1.,1]       
 [28] "fBodyAcceleration.meanFreqInZdirection": mean of Body Acceleration frequency in the z-direction; range = [-1.,1]       
